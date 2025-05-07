@@ -10,6 +10,7 @@ import css from "./styles/App.module.scss";
 import ContactMe from "./components/Work/ContactMe";
 
 import Hero from "./components/Hero/Hero";
+import Cert from "./components/Cert/Cert";
 const App = () => {
   //don't forget to add font link in index.html
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <Hero />
       <Experties />
       <Work />
+      <Cert />
       <ContactMe />
       {/* <Portfolio />
       <People /> */}

@@ -3,6 +3,7 @@ import { workExp } from "../../utils/data";
 import css from "./Work.module.scss";
 import { motion } from "framer-motion";
 import bet from "../../assets/frey2.jpeg";
+import betImg from "../../assets/cert.jpeg";
 import {
   draw,
   fadeIn,
