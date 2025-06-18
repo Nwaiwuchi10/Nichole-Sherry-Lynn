@@ -28,7 +28,7 @@ const Footer = () => {
         <div className={css.right}>
           <div className={css.info}>
             <span className="secondaryText">Information</span>
-            <p>+12014774256</p>
+            <p>+12283023493</p>
             <p style={{ marginTop: "15px" }}> nicholesherrylynn@gmail.com</p>
           </div>
           <ul className={css.menu}>

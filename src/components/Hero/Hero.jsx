@@ -8,7 +8,7 @@ import { IoCall } from "react-icons/io5";
 import { SiGmail } from "react-icons/si";
 import "./Hero.css";
 const Hero = () => {
-  const phoneNumber = +12014774256;
+  const phoneNumber = +12283023493;
   // const phoneNumber = "+1(781)351‑8993";
   const WhatsappClick = () => {
     const url = `https://wa.me/${phoneNumber}`;
@@ -63,7 +63,7 @@ const Hero = () => {
         </motion.div>
         <br />
 
-        <div className={css.number}>+12014774256</div>
+        <div className={css.number}>+12283023493</div>
 
         {/* <br /> */}
 
